@@ -3,7 +3,7 @@ A mobilenet SSD(single shot multibox detector) based face detector with pretrain
 
 ## Results
 <p align="center">
-<img src="face-result.gif" width="720">
+<img src="face-result.gif" width="320">
 </p>
 
 ## Features
